@@ -1,5 +1,5 @@
 # ProjectManagement
-Project Management Learnings
+Project Management Learnings by Google cousera course 
 
 # Introduction
 [Project Management Defination](defination.md)
