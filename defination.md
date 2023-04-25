@@ -13,4 +13,9 @@ The application of knowledge , skills , tools and techniques to meet the project
 * Controlling cost and other factors
 * Adding values to the project in many diffrent ways for example adding servives for customers 
 
-
+### Day to Day duties for Project manager includes :
+* Monthly status report
+* Implement new and necessary technologies
+* Tracking work plans and performance metrics
+* Assisting other members of the operation team
+* Ensuring timely responses to requests for information
