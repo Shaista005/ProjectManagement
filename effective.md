@@ -10,3 +10,9 @@ PM use delegation to add value to their team and organizations by matching tasks
 PM deliver value through effective communication,both with their team and with key stakeholders.
 
 
+### Main ways that project managers can add value to projects and impact organizations, includes: 
+1. Focusing on the customer
+2. Building a great team
+3. Fostering relationships and communication
+4. Managing the project
+5. Breaking down barriers
