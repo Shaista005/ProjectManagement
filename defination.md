@@ -19,3 +19,6 @@ The application of knowledge , skills , tools and techniques to meet the project
 * Tracking work plans and performance metrics
 * Assisting other members of the operation team
 * Ensuring timely responses to requests for information
+
+### Stakeholders
+Stakeholders are people who are interested in and affected by the project's completion and success.
